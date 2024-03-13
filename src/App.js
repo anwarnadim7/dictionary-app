@@ -64,7 +64,7 @@ function App() {
           }}
         />
         <button
-          className="flex items-center justify-center bg-gray-200 text-gray-800 text-white rounded-lg ml-1 p-2"
+          className="flex items-center justify-center bg-gray-200 text-gray-800  rounded-lg ml-1 p-2"
           onClick={() => {
             getMeaning();
           }}
